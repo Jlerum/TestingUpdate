@@ -7,7 +7,7 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Lending System_1_0_0_27\Lending System.dll.manifest" size="15806">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Lending System_1_0_0_26\Lending System.dll.manifest" size="15806">
       <assemblyIdentity name="Lending System.dll" version="1.0.0.27" publicKeyToken="51e678b8f58ac677" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
