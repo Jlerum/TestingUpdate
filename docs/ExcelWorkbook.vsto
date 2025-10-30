@@ -7,7 +7,7 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\ExcelWorkbook_1_0_0_1\ExcelWorkbook.dll.manifest" size="13850">
+    <dependentAssembly dependencyType="install" codebase="Application Files\ExcelWorkbook_1_0_0_2\ExcelWorkbook.dll.manifest" size="13850">
       <assemblyIdentity name="ExcelWorkbook.dll" version="1.0.0.1" publicKeyToken="96f5691ba958eb8f" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
